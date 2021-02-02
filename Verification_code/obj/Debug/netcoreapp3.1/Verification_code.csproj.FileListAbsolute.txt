@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.exe
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.deps.json
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.runtimeconfig.json
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.runtimeconfig.dev.json
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.dll
+C:\Users\harre\source\repos\Verification_code\Verification_code\bin\Debug\netcoreapp3.1\Verification_code.pdb
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.AssemblyInfo.cs
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.dll
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.pdb
+C:\Users\harre\source\repos\Verification_code\Verification_code\obj\Debug\netcoreapp3.1\Verification_code.genruntimeconfig.cache

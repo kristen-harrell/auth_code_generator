@@ -7,8 +7,14 @@ namespace Verification_code
     {
         static void Main(string[] args)
         {
+            string newVerificationCode = GetVerificationCode(6); //specify length in method
+            
+            Console.WriteLine(newVerificationCode);
 
-            int stringLength = 6;
+        }
+        public static string GetVerificationCode(int x)
+        {
+        int stringLength = x;
             var stringBuilder = new StringBuilder();
 
             for (int i = 0; i < stringLength; i++)
@@ -18,16 +24,19 @@ namespace Verification_code
                 char alpha = (char)random.Next('a', 'z'); //if I make the set 'A', 'z' to try to incl. caps and lower, I get special char too
                 if (random.Next() % 2 == 0)
                 {
-                stringBuilder.Append(num);
+                    stringBuilder.Append(num);
                 }
                 else
                 {
-                stringBuilder.Append(alpha);
+                    stringBuilder.Append(alpha);
                 }
             }
             string code = stringBuilder.ToString();
-            Console.WriteLine(code);
+            return code;
 
         }
-    }
+        
+   
+}
+
 }
